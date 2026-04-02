@@ -1,3 +1,5 @@
+A deep dive into high-performance machine learning using Ensemble methods to solve complex real-world problems. This repository features two primary case studies: a Breast Cancer Diagnostic Classifier utilizing Bagging (Random Forest) and AdaBoost to maximize recall, and a California Housing Price Regressor employing Gradient Boosting (XGBoost) and Stacking to handle non-linear spatial data and minimize RMSE.
+
 🎀 **1. Breast Cancer Diagnostic Classification**
 
 Keywords - Ensemble Learning, Bagging, Random Forest, AdaBoost, Gradient Boosting, Scikit-Learn
