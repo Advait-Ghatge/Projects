@@ -1,4 +1,4 @@
-**1. Breast Cancer Diagnostic Classification**
+🎀 **1. Breast Cancer Diagnostic Classification**
 
 Keywords - Ensemble Learning, Bagging, Random Forest, AdaBoost, Gradient Boosting, Scikit-Learn
 
@@ -22,7 +22,7 @@ ML Libraries: Scikit-Learn, XGBoost
 Algorithms: Random Forest Classifier, AdaBoost, Gradient Boosting Machine (GBM)
 
 
-**2. California Housing Price Regression**
+🏠 **2. California Housing Price Regression**
 
 Keywords - Regression Analysis, XGBoost, Stacking, Feature Engineering, Hyperparameter Tuning
 
@@ -31,9 +31,13 @@ A predictive modeling project aimed at estimating median house values across Cal
 The project focuses on handling non-linear spatial data and skewed distributions using advanced Boosting techniques and Weighted Ensembles.
 
 Key Features -
+
 a. Gradient Boosting (XGBoost/CatBoost): Implements state-of-the-art boosting algorithms to handle non-linear relationships between location (Lat/Long) and price.
+
 b. Hyperparameter Optimization: Uses GridSearchCV and RandomizedSearchCV to fine-tune learning rates, tree depth, and subsampling ratios.
+
 c. Ensemble Stacking: Combines multiple base learners (Linear Regression, Ridge, and Decision Trees) into a meta-regressor for a "Best-of-All" prediction.
+
 d. Evaluation: Optimized for Root Mean Squared Error (RMSE) and $R^2$ Score to ensure high predictive power.
 
 Technical Stack
